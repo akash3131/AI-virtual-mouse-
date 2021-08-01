@@ -1,1 +1,1 @@
-An AI virtual mouse using media lab
+An AI virtual mouse using mediapipe
